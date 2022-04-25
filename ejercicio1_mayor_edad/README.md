@@ -11,4 +11,4 @@ si la persona tiene 18 o más años considerada mayor de edad
 
 ## DISEÑO
 
-![Diagrama de flujo](diagrama.png"Diagrama de flujo")
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
